@@ -1,6 +1,5 @@
 POUR DEMARRER LE PROJET, veuillez suivre ses instructions : 
 - clonner le projet depuis mon depot github
-- npm install 
 - executer cette commande : npx tailwindcss -i ./input.css -o ./output.css --watch
 - ouvrir le projet dans votre navigateur
 
